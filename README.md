@@ -1,2 +1,18 @@
-# Star-Wars-Script-Semantic-Search
-Finds specific parts of Star Wars scripts based on user input.
+A fully local semantic search engine for Star Wars scripts using vector embeddings and Qdrant!!!!!
+
+bash
+
+git clone https://github.com/your-username/star-wars-expert.git
+cd star-wars-expert
+
+pip install requests beautifulsoup4 sentence-transformers langchain-community qdrant-client
+
+python main.py
+
+
+
+you can then ask questions like;
+
+What does Leia say when she meets Han Solo?
+What is the plan on Hoth?
+How do the Rebels destroy the Death Star?
