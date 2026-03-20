@@ -3,6 +3,7 @@ A fully local semantic search engine for Star Wars scripts using vector embeddin
 bash
 
 git clone https://github.com/MWMWMMWMWMWMWMWMMWMWMWMWMWMWMWMWMWMMW/Star-Wars-Script-Semantic-Search.git
+
 cd Star-Wars-Script-Semantic-Search
 
 pip install requests beautifulsoup4 sentence-transformers langchain-community qdrant-client
