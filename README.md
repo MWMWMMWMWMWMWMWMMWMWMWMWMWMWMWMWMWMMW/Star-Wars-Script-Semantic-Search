@@ -2,7 +2,7 @@ A fully local semantic search engine for Star Wars scripts using vector embeddin
 
 bash
 
-git clone https://github.com/your-username/star-wars-expert.git
+git clone eee
 cd star-wars-expert
 
 pip install requests beautifulsoup4 sentence-transformers langchain-community qdrant-client
